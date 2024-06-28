@@ -13,10 +13,6 @@ The application guides the user through the entire ticket purchasing process:
 - Managing the cart (viewing, removing items)
 - Finalizing the purchase and payment
 
-## How Does It Work?
-
-The application is written in Java and runs in the terminal. The user interface is text-based, making the application lightweight and easy to run on most computers.
-
 ## How to Install?
 
 ### Requirements:
