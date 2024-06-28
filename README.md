@@ -58,6 +58,4 @@ Choose the number of the movie, then select the screening and seat. Add extras l
 
 ## Additional Information
 
-The "Self-Service Cinema Ticketing System" is an excellent example of how to create a functional terminal application that is both readable and maintainable. It is designed with SOLID and GRASP principles in mind, making it a great educational resource for beginner programmers.
-
 Feel free to explore the source code, modify it, and share your ideas for further development. Happy coding!
